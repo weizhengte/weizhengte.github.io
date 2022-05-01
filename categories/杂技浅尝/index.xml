@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂技浅尝 on 星光不问</title>
+    <link>https://weizhengte.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
+    <description>Recent content in 杂技浅尝 on 星光不问</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2022 10:45:48 +0800</lastBuildDate><atom:link href="https://weizhengte.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://weizhengte.github.io/post/my-first-post/</link>
+      <pubDate>Sun, 01 May 2022 10:45:48 +0800</pubDate>
+      
+      <guid>https://weizhengte.github.io/post/my-first-post/</guid>
+      <description>字段 说明 opdate 访问日期 funcurl 访问功能action opid 访问人id optype 访问类型：0 客户 1 代理商代管客户 2 admin代管客户 3 admin代管代理商再代管客户 5</description>
+    </item>
+    
+  </channel>
+</rss>
