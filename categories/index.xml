@@ -6,22 +6,13 @@
     <description>Recent content in Categories on 星光不问</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 May 2022 10:45:48 +0800</lastBuildDate><atom:link href="https://weizhengte.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 11:21:43 +0800</lastBuildDate><atom:link href="https://weizhengte.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>abc</title>
-      <link>https://weizhengte.github.io/categories/abc/</link>
-      <pubDate>Sun, 01 May 2022 10:45:48 +0800</pubDate>
+      <title>Go语言</title>
+      <link>https://weizhengte.github.io/categories/go%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Mon, 02 May 2022 11:21:43 +0800</pubDate>
       
-      <guid>https://weizhengte.github.io/categories/abc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>杂技浅尝</title>
-      <link>https://weizhengte.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
-      <pubDate>Sun, 01 May 2022 10:45:48 +0800</pubDate>
-      
-      <guid>https://weizhengte.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</guid>
+      <guid>https://weizhengte.github.io/categories/go%E8%AF%AD%E8%A8%80/</guid>
       <description></description>
     </item>
     
